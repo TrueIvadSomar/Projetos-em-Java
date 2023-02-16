@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaCalculatorApp-main/JavaCalculatorApp-main.iml" filepath="$PROJECT_DIR$/JavaCalculatorApp-main/JavaCalculatorApp-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaClockAndCalendar-main/JavaClockAndCalendar-main.iml" filepath="$PROJECT_DIR$/JavaClockAndCalendar-main/JavaClockAndCalendar-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEditorDeTexto-main/JavaEditorDeTexto-main.iml" filepath="$PROJECT_DIR$/JavaEditorDeTexto-main/JavaEditorDeTexto-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaJogoDaCobrinhaV1.1-main/JavaJogoDaCobrinhaV1.1-main.iml" filepath="$PROJECT_DIR$/JavaJogoDaCobrinhaV1.1-main/JavaJogoDaCobrinhaV1.1-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoDaVelhaJava-main/JogoDaVelhaJava-main.iml" filepath="$PROJECT_DIR$/JogoDaVelhaJava-main/JogoDaVelhaJava-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetosJava.iml" filepath="$PROJECT_DIR$/.idea/ProjetosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaDeLoginJava-main/SistemaDeLoginJava-main.iml" filepath="$PROJECT_DIR$/SistemaDeLoginJava-main/SistemaDeLoginJava-main.iml" />
+    </modules>
+  </component>
+</project>
